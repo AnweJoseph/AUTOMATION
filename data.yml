@@ -8,3 +8,4 @@ data:
     process_id: 1
     ospf_networks: "1.1.1.1 0.0.0.0"
     area: 0
+    
