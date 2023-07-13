@@ -4,3 +4,4 @@ CSR_1:
   hostname: "192.168.164.150"
   groups:
     - cisco
+    
